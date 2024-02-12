@@ -1,7 +1,15 @@
 -- Configure Gruvbox
 require("gruvbox").setup({
-    -- Your customization parameters here
     transparent_mode = true,
+    italic = {
+      strings = false,
+      emphasis = true,
+      comments = false,
+      operators = false,
+      folds = true,
+  },
 })
 -- Set the colorscheme
 vim.cmd("colorscheme gruvbox")
+
+
