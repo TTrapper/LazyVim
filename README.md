@@ -15,9 +15,9 @@ If copy paste doesn't work try installing one of the support clipboard providers
 See https://neovim.io/doc/user/provider.html#provider-clipboard for more information about clipboard providers.
 
 ### Font symbols don't render
-Need to install a font that supports special symbols (eg `UbuntuMono Nerd mono`) and configure the terminal emulator to use it. 
+Install a font that supports special symbols (eg `UbuntuMono Nerd mono`) and configure the terminal emulator to use it. 
 
 See https://www.nerdfonts.com/ for font download options
 
 ### Python provider
-`pip install pynvim'
+`pip install pynvim`
