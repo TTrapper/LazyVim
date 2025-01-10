@@ -21,3 +21,5 @@ vim.opt.guicursor = {
 -- "o:hor50" means operator-pending mode will have a horizontal cursor.
 -- "a:blinkwait700-blinkoff400-blinkon250" applies blink settings to all modes.
 
+-- Disable smooth animations
+vim.g.snacks_animate = false
